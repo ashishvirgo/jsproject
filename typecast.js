@@ -1,0 +1,12 @@
+let a='123';
+let b=true;
+let c='123n4';
+let d=234;
+let e=0;
+let age;
+console.log('a=',Number(a),'  ', typeof a);
+console.log('b=',Number(b),'  ', typeof b);
+console.log('c=',Number(c),'  ', typeof c);
+console.log('d=',String(d),'  ', typeof d);
+console.log('e=',Boolean(e),'  ', typeof e);
+console.log('age=',Number(age),'  ', typeof age);
